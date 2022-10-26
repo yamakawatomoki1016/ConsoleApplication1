@@ -6,7 +6,7 @@
 int main()
 {
     std::cout << "Hello My World!\n";
-    std::cout << "Hello My World!\n";
+    std::cout << "New branch changed\n";
     std::cout << "third branch\n";
 }
 
